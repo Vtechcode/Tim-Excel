@@ -9,4 +9,11 @@ ws = wb.active
 #wb.save('Grades.xlsx')
 
 # printing sheetnames
-print(wb.sheetnames)
+#print(wb.sheetnames)
+# Creating a new sheet
+#wb.create_sheet("Test")
+#print(wb.sheetnames)
+#wb.save('Grades.xlsx')
+
+#Accessing a sheet
+#print(wb['Sheet1'])
